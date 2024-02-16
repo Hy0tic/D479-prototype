@@ -7,6 +7,7 @@ import { DropArea } from "../components/TripPlanner";
 import styled from "styled-components";
 import { useState } from "react";
 import DatePickerComponent from "../components/DatePicker";
+import SavePageAsImage from "../components/SavePageAsImage";
 
 
 export default function PlanningTools() {
@@ -92,6 +93,7 @@ export default function PlanningTools() {
           <input type="date" value={selectedDate} onChange={handleDateChange} />
           <p>Selected Date: {selectedDate}</p>
         </div>
+        <SavePageAsImage/>
 
           <div style={{ padding: '32px' }}>
             <StyledContainer>
