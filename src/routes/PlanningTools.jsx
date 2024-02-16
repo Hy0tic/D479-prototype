@@ -89,11 +89,15 @@ export default function PlanningTools() {
 
         <DndProvider backend={HTML5Backend}>
         <h1 style={{textAlign:'center'}}>Plan a 5 day vacation</h1>
-        <div>
-          <input type="date" value={selectedDate} onChange={handleDateChange} />
-          <p>Selected Date: {selectedDate}</p>
-        </div>
-        <SavePageAsImage/>
+
+        <StyledContainer2>
+          <div>
+            <p>Selected Date: {selectedDate}</p>
+            <input type="date" value={selectedDate} onChange={handleDateChange} />
+          </div>
+
+          <SavePageAsImage/>
+        </StyledContainer2>
 
           <div style={{ padding: '32px' }}>
             <StyledContainer>
@@ -144,6 +148,12 @@ const StyledContainer = styled.div`
   display: flex;
   flex-direction: row;
   margin: 30px 0;
+`
+const StyledContainer2 = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
 `
 
 const StyledActivityContainer = styled.div`
