@@ -9,7 +9,7 @@ const products = [
     price: 100,
     type: 'hotel',
     description: 'A cozy and elegant hotel room in the city center.',
-    image: 'https://wallpapercave.com/wp/wp3598835.jpg',
+    image: 'https://th.bing.com/th/id/R.94223a3bfb9665732d9c7c9d2db8556b?rik=zeZX8msir6VN0A&riu=http%3a%2f%2f4.bp.blogspot.com%2f-G6PtlmfrVS4%2fTrVS5bmKMRI%2fAAAAAAAACAU%2fZA98HniWDhc%2fs1600%2fhotel-room.jpg&ehk=1ZYZiJtoZ7yIAXZ2YvIZhcPmVIj%2fQTppuJ4freJoFyE%3d&risl=&pid=ImgRaw&r=0',
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const products = [
     price: 300,
     type: 'condo',
     description: 'Spacious condo with a beautiful sea view.',
-    image: 'https://wallpapercave.com/wp/wp3598835.jpg',
+    image: 'https://www.century21-stmaarten.com/wp-content/uploads/2020/01/9N1A9534.jpg',
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const products = [
     price: 500,
     type: 'resort',
     description: 'A luxury suite with all amenities included.',
-    image: 'https://wallpapercave.com/wp/wp3598835.jpg',
+    image: 'https://images.rosewoodhotels.com/is/image/rwhg/hi-hgv-26330925-rhgmodelbedroom-1',
   },
   // Add more products as needed
 ];

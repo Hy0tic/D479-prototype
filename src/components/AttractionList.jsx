@@ -44,7 +44,7 @@ const attractions = [
     id: 1,
     name: 'City Museum',
     description: 'Explore the history of the city in this comprehensive museum.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Rymill_park_path.jpg',
+    image: 'https://th.bing.com/th/id/OIP.2WN3O7Kywr-mKko2N6_IygHaE9?rs=1&pid=ImgDetMain',
   },
   {
     id: 2,
@@ -56,7 +56,7 @@ const attractions = [
     id: 3,
     name: 'Skyline Viewpoint',
     description: 'Get the best views of the city skyline from this popular viewpoint.',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Rymill_park_path.jpg',
+    image: 'https://th.bing.com/th/id/OIP.w8mXcHLMdKowVan7rdzAOQAAAA?rs=1&pid=ImgDetMain',
   },
   // Add more attractions as needed
 ];

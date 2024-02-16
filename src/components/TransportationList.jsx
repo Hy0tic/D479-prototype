@@ -49,13 +49,13 @@ const transportationMethods = [
     id: 2,
     name: 'Bicycle Rental',
     description: 'Rent a bike and see the city from a new perspective.',
-    image: 'https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/48byXia/videoblocks-big-bus-tours-in-new-york-downtown-theater-district-4k_hyw7_be6a_thumbnail-1080_01.png',
+    image: 'https://th.bing.com/th/id/OIP.LaQxdR65i4-sSQNKj2LrlgHaEh?rs=1&pid=ImgDetMain',
   },
   {
     id: 3,
     name: 'Ferry Ride',
     description: 'Enjoy a scenic ferry ride across the bay.',
-    image: 'https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/48byXia/videoblocks-big-bus-tours-in-new-york-downtown-theater-district-4k_hyw7_be6a_thumbnail-1080_01.png',
+    image: 'https://th.bing.com/th/id/OIP.5KrtW6qhTdLSHnZPbAQi0gHaEK?rs=1&pid=ImgDetMain',
   },
   // Add more transportation methods as needed
 ];
